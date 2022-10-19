@@ -1,0 +1,1 @@
+<?php echo"nuevo archivo" ?>
